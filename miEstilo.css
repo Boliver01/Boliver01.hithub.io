@@ -1,0 +1,39 @@
+# Boliver01.hithub.io
+Project website
+.titulo1{
+    color: #004e71;
+    font-size:40px;
+}
+
+.titulo2{
+    color: #004e71;
+    font-size:40px;
+}
+
+.tiempo{
+    color: white;
+    background-color: #60b8ad;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.tiempo2{
+    color:white;
+    background-color: #004e71;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.tiempo3{
+    color:white;
+    background-color: #004e71;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
